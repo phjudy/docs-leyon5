@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-klhtga.trans88.online/sitemap.xml
